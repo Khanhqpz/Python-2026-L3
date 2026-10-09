@@ -1,5 +1,5 @@
 USTH Advanced Programming with Python 2026
 ==================================
 
-* Your name here
-* Your ID here
+* Lê Long Khánh
+* 2510508 tml
